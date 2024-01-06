@@ -1,0 +1,83 @@
+2024-01-12, Cary, NC, South Line Brewing, 6:00PM, 9:00PM
+2023-12-29, Surf City, NC, Salty Turtle Brewing, 6:00PM, 9:00PM
+2023-12-12, Raleigh, NC, Private Event, 0:00PM, 0:00PM
+2023-12-08, Raleigh, NC, Salty Turtle Brewing, 0:00PM, 0:00PM
+2023-11-19, Cary, NC, South Line Brewing, 0:00PM, 0:00PM
+2023-10-14, Burnsville, NC, Birdfoot, 0:00PM, 0:00PM
+2023-10-06, Raleigh, NC, House Creek Beverage, 0:00PM, 0:00PM
+2023-09-30, Raleigh, NC, Salty Turtle Brewing, 0:00PM, 0:00PM
+2023-09-15, Raleigh, NC, Salty Turtle Brewing, 0:00PM, 0:00PM
+2023-08-25, Raleigh, NC, House Creek Beverage, 0:00PM, 0:00PM
+2023-07-22, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2023-06-02, Raleigh, NC, House Creek Beverage, 0:00PM, 0:00PM
+2023-05-06, Raleigh, NC, Salty Turtle Brewing, 0:00PM, 0:00PM
+2023-04-08, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2023-04-07, Raleigh, NC, House Creek Beverage, 0:00PM, 0:00PM
+2023-03-11, Raleigh, NC, Salty Turtle Brewing, 0:00PM, 0:00PM
+2023-02-26, Raleigh, NC, Salty Turtle Brewing, 0:00PM, 0:00PM
+2023-02-25, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2022-10-22, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2022-10-01, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2022-09-10, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2022-07-30, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2022-06-25, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2022-06-18, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2022-05-07, Apex, NC, Bottle Theory, 0:00PM, 0:00PM
+2022-05-05, Raleigh, NC, R&D Brewing Taproom, 0:00PM, 0:00PM
+2022-04-28, Raleigh, NC, Lynwood Brewing Concern, 0:00PM, 0:00PM
+2022-04-23, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2022-04-16, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2022-03-12, Apex, NC, Bottle Theory, 0:00PM, 0:00PM
+2022-03-05, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2021-11-06, Fuquay-Varina, NC, Private Event, 0:00PM, 0:00PM
+2021-10-23, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2021-09-18, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2021-09-05, Raleigh, NC, Private Event, 0:00PM, 0:00PM
+2021-09-02, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2021-08-27, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2021-08-13, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2021-07-02, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2021-06-04, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2021-05-28, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2021-05-22, Wilmington, NC, Private Event, 0:00PM, 0:00PM
+2021-05-08, Raleigh, NC, Private Event, 0:00PM, 0:00PM
+2021-04-30, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2021-04-29, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2021-03-26, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2020-12-11, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2020-10-23, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2020-09-19, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2020-08-28, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2020-07-25, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2020-07-03, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2020-05-23, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2020-05-08, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2020-02-29, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2020-01-18, Cary, NC, Cotton House Craft Brewers, 0:00PM, 0:00PM
+2019-12-28, Cary, NC, Cotton House Craft Brewers, 0:00PM, 0:00PM
+2019-12-20, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2019-11-08, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2019-09-07, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2019-08-10, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2019-07-05, Raleigh, NC, Gizmo Brew Works, 0:00PM, 0:00PM
+2019-05-11, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2019-04-20, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2019-02-07, Greensboro, NC, Blandwood Carriage House, 0:00PM, 0:00PM
+2019-01-26, Raleigh, NC, North Street Beer Station, 0:00PM, 0:00PM
+2019-01-19, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2018-12-28, Raleigh, NC, North Street Beer Station, 0:00PM, 0:00PM
+2018-11-30, Raleigh, NC, Honest Abe's, 0:00PM, 0:00PM
+2018-11-17, Raleigh, NC, North Street Beer Station, 0:00PM, 0:00PM
+2018-10-27, Pittsboro, NC, Pittsboro Street Fair, 0:00PM, 0:00PM
+2018-10-27, Chapel Hill, NC, Private Event, 0:00PM, 0:00PM
+2018-09-08, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2018-07-28, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2018-07-07, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2018-06-23, Raleigh, NC, Private Event, 0:00PM, 0:00PM
+2018-06-22, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2018-05-12, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2018-04-28, Raleigh, NC, Bottle Revolution, 0:00PM, 0:00PM
+2018-04-07, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2018-03-17, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2018-03-03, Apex, NC, Southern Peak Brewery, 0:00PM, 0:00PM
+2018-01-28, Raleigh, NC, Private Event, 0:00PM, 0:00PM
