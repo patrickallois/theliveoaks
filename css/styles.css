@@ -51,7 +51,8 @@ body {
 }
 
 .chevron {
-  color: #f4f4f4
+  color: #f4f4f4;
+  margin-bottom: 10vh;
 }
 
 .container {
