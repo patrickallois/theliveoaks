@@ -1,6 +1,6 @@
 # The Live Oaks band website
 
-[theliveoaksrock.com](https://www.theliveoaksrock.com)
+[liveoaksraleigh.com](https://www.liveoaksraleigh.com)
 
 ## Attributes
 
