@@ -10,8 +10,7 @@
             <li>S3 bucket (storage)</li>
             <li>CloudFront (Distribution)</li>
             <li>ACM (Certification)</li>
-            <li>Route 53 (IP Routing to GoDaddy)</li>
-            <li>GoDaddy (DNS)</li>
+            <li>Route 53 (Domain Registration and DNS Routing)</li>
         </ul>
     <li>Built using HTML/CSS/Javascript</li>
     <li>Uses Flexbox for a mobile first responsive design.
