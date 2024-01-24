@@ -1,1 +1,1 @@
-0000-00-00, City, State, Venue, 0:00PM, 00:00PM, Additional Notes
+0000-00-00, City, State, Venue, 0:00PM, 0:00PM, Additional Notes
